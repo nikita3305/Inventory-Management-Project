@@ -13,3 +13,4 @@ MENTOR NAME:Sarafaraz Babi
  
 #output:
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b3e5f4e1-6b8d-439e-868f-e7746842ef1c" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/84790980-bc24-4655-a5c9-20887971d9f6" />
